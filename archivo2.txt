@@ -1,2 +1,3 @@
 este es mi segundo archivito de pruebas jeje
 aca añadi algo nuevo despues de haberle hecho un git add
+tenemos este cambio despues de hacer el commit
